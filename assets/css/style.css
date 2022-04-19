@@ -43,12 +43,10 @@ header {
   padding-bottom: 20px;
   padding-left: 25px;
 }
-
-}
-
 header a {
   text-decoration: none;
   color: #fce138;
+
 }
 
 header nav ul li{
@@ -87,5 +85,8 @@ footer div {
 footer a {
   color: #024e76;
 }
-
+section {
+  padding: 60px;
+  background-image: url("../images/hero-bg.jpg");
+}
 
